@@ -12,3 +12,12 @@
 + 這也是清單
 * 這同樣是清單
 	- 清單子項目
+
+
+```
+for (let i = 0; i < 10; i++) {
+  setTimeout(function () {
+    console.log('這執行第' + i + '次');
+  }, 0);
+}
+```
