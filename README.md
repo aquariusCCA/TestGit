@@ -1,3 +1,1 @@
-![这是图片](C:\Users\linki\Pictures\Saved Pictures\a.jpg "Magic Gardens")
-
-![Gamma-Ray-Studio](C:/Users/linki/Pictures/Saved Pictures/a.jpg)
+![這是圖片](https://user-images.githubusercontent.com/108846887/178128316-704ebcf0-366f-45fa-95b7-489afe9dec8b.jpg)
