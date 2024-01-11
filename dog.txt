@@ -1,3 +1,0 @@
-dog is running
-
-dog jump
